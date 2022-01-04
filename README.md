@@ -1,13 +1,13 @@
 ![](https://raw.githubusercontent.com/hanyucd/hanyucd/main/header.png)
-### Hi there, I'm 飞鱼 👋
+### Hi there, I'm 清野 👋
 
 一直努力成长中🧑‍💻
 
 下边是我的联系方式，欢迎一起交流学习
 
-- 💬 微信：hy1807003141
-- 📝 [我的掘金](https://juejin.cn/user/676954892714983)
-- 坐标：杭州、成都
+- 💬 微信：wangqingye003
+- 📝 [我的博客](https://wqy.fun/Blog/)
+- 坐标：成都
 
 **技术栈:**  
 
@@ -22,6 +22,6 @@
 
 [![](https://github-readme-stats.vercel.app/api/top-langs?username=hanyucd&theme=tokyonight&layout=compact)](https://github.com/hanyucd) -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=hanyucd&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=WangQingye&show_icons=true" />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanyucd&langs_count=10&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangQingye&langs_count=10&layout=compact" />
